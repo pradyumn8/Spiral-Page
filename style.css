@@ -167,13 +167,12 @@ form {
   /* display: flex;
   flex-direction: column; */
 }
-.left h1 {
-  
-}
 .inbox {
   width: 60%;
   font-weight: 100;
-  font-size: small;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .right{
   width: 40%;
@@ -181,6 +180,11 @@ form {
   background: linear-gradient(45deg, #2A7D6C 100%, #3E6960 62%);
   text-align: center;
   color: #fff;
+}
+.text {
+  font-size: 64px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Main item for mobile view */
